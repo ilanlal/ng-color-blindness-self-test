@@ -1,0 +1,13 @@
+.exampage {
+    margin: 0 auto;
+    text-align: center;
+}
+.example-card {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+div.color {
+    width: 400px;
+    height: 400px;
+}
